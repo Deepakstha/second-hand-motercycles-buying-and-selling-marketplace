@@ -1,0 +1,22 @@
+type MinProductListType = {
+  name: string;
+  company: string;
+  boughtYears: number;
+  price: number;
+  description: string;
+  engineType: string;
+  modal: string;
+  images: JSON;
+  color: string;
+  shortDescription: string;
+  userId: number;
+  kmDriven: number;
+  ownerShip: number;
+  engineDisplacement: number;
+  yearOfManufracture: number;
+  milage: string;
+  wheelSize: number;
+  isSold: boolean;
+  isDeleteByUser: boolean;
+  isNegotiable: boolean;
+};
